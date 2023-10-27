@@ -106,4 +106,3 @@ for ($i = $cache_data_split.Length - 1; $i -ge 0; $i--) {
 
 Write-Host "$([char]0x627e)$([char]0x4e0d)$([char]0x5230)$([char]0x65e5)$([char]0x5fd7)$([char]0x6587)"  -ForegroundColor Red
 Write-Host "$([char]0x8bf7)$([char]0x786e)$([char]0x4fdd)$([char]0x6e38)$([char]0x620f)$([char]0x5b89)$([char]0x88c5)$([char]0x8def)$([char]0x5f84)$([char]0x6ca1)$([char]0x6709)$([char]0x4e2d)$([char]0x6587)"
-        
