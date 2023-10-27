@@ -18,6 +18,10 @@ https://raw.githubusercontent.com/feixuei/test/main/data/data.yaml
 
 https://raw.githubusercontent.com/feixuei/test/main/srcn.ps1
 
-iex(irm ' https://raw.githubusercontent.com/feixuei/test/main/srcn.ps1')
+# 原链接
+iex(irm 'https://img.lelaer.com/srcn.ps1')
+
+# 备用链接
+iex(irm 'https://raw.githubusercontent.com/feixuei/test/main/srcn.ps1')
 ```
 
