@@ -12,8 +12,10 @@
 
 
 ```shell
+# 接口
 https://api.github.com/repos/feixuei/test/contents/data/data.yaml?ref=main
 
+# 链接
 https://raw.githubusercontent.com/feixuei/test/main/data/data.yaml
 
 https://raw.githubusercontent.com/feixuei/test/main/srcn.ps1
