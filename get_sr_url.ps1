@@ -99,6 +99,7 @@ for ($i = $cache_data_split.Length - 1; $i -ge 0; $i--) {
             Write-Host " "
             Write-Host "$([char]0x62bd)$([char]0x5361)$([char]0x5206)$([char]0x6790)$([char]0x5730)$([char]0x5740)$([char]0x83b7)$([char]0x53d6)$([char]0x6210)$([char]0x529f)$([char]0xff0c)$([char]0x8bf7)$([char]0x590d)$([char]0x5236)$([char]0x5230)$([char]0x201c)$([char]0x661f)$([char]0x94c1)$([char]0x5c0f)$([char]0x52a9)$([char]0x624b)$([char]0x201d)$([char]0x4f7f)$([char]0x7528)"-ForegroundColor Green
 	    Write-Host "$([char]0x661f)$([char]0x94c1)$([char]0x5c0f)$([char]0x52a9)$([char]0x624b)$([char]0x795d)$([char]0x60a8)$([char]0x6c14)$([char]0x6ee1)$([char]0x6ee1)$([char]0xff0c)$([char]0x5341)$([char]0x8fde)$([char]0x51fa)$([char]0x91d1)$([char]0xff0c)$([char]0x5c0f)$([char]0x4fdd)$([char]0x5e95)$([char]0x5fc5)$([char]0x4e2d)$([char]0xff01)" -ForegroundColor Yellow
+            Pause
             return;
         }
     }
